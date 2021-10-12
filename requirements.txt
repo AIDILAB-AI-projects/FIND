@@ -63,7 +63,7 @@ nbformat==4.4.0
 networkx==2.4
 - notebook==6.0.2
 numpy==1.17.4
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.2.0.32
 opt-einsum==3.2.0
 packaging==20.3
 pandas==0.25.3
